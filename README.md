@@ -22,7 +22,7 @@
 # Features
 <h5>Search countries</h5>
 <h5>Map view</h5>
-<h5>View stats per day and month</h5>
+<h5>View stats Death and recovery</h5>
 
 
 
